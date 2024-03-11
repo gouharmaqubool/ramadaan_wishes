@@ -885,8 +885,12 @@
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: 300;
-    margin-top: 310px;
+    font-size: 15pt;
+    margin-top: 180px;
     font-style: normal;
+  }
+  .name{
+    font-size: 18pt;
   }
   
   @keyframes animStar {
